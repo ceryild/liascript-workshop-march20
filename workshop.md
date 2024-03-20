@@ -213,7 +213,6 @@ This is a question that has a hint
 
 # Check in
 
-@check_in
 I'll pause here for a moment. Please click the radio button and hit "Submit" when you're ready.
 
   [(1)] I'm ready to move on!
@@ -231,4 +230,4 @@ How is my pace so far?
   [(Too Slow)(Ok)(Too Fast)]
   [                        ] Pace
 
-@end
+
