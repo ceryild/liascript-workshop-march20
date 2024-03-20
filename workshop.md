@@ -1,5 +1,3 @@
-hello
-
 # Hello There!
 
 I am a very simple LiaScript test file!
