@@ -1,12 +1,3 @@
-# Hello There!
+# Example LiaScript File
 
-I am a very simple LiaScript test file!
-
----
-
-Did I work?
-
-- [[x]] Yes
-- [[ ]] No
-
-- 
+This is an example LiaScript File created by {Ceren}.
